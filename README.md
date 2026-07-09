@@ -7,8 +7,7 @@ YouTube [Dea Afrizal] = Belajar Dasar Pemrograman Javascript 1 Jam
 https://youtu.be/mD6uSGSjgr4?si=PaV_GGb3hgonWaBY; menit = 
 
 
-ChatGPT [Quiz] 
-https://chatgpt.com/share/6a4b60cb-e858-83ec-9c1e-40446fa3be02; 
+
 
 
 ===================================================================================
