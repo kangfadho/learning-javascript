@@ -1,7 +1,5 @@
 function tambah(a, b) {
-    console.log(a + b);
-
+    console.log('Hasilnya adalah: ' + (a + b));
 }
 
-tambah(10, 20);
-tambah(100, 200);
+tambah(10, 5);
