@@ -1,4 +1,4 @@
-// Jadwal Belajar Minimal 2 Jam Perhari
+// NGODING AJA DULU ..
 
 Progres Belajar  🚀
 ===================
